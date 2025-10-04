@@ -1,0 +1,5 @@
+# Core app uses standard library only.
+# Tkinter is part of the standard library but may require OS package (python3-tk) on Linux.
+pytest>=7.4
+ruff>=0.6
+black>=24.0
